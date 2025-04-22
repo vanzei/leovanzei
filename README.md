@@ -1,32 +1,63 @@
-# This README.md file contains the documentation for the project.
+### Hey there 👋,
+### I`m Leonardo Vanzei - A data-driven individual, excited to solve business and life problems.
 
-# Project Title: Vanzei
+- 🔭 I’m currently working with Distributed Systems responsible for a Geolocation Algorithm of Mobile Networks( 3G, 4G, 5G...you got it 😅)
 
-## Description
-This project is designed to showcase the README.md file as a website hosted on GitHub Pages. It includes a GitHub Actions workflow for automatic deployment and an index.html file that serves as the main entry point for the website.
+### 🧰 Languages and Tools
 
-## Getting Started
-To get started with this project, clone the repository and navigate to the project directory.
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" href="https://www.python.org/" />
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="Ansible" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/ansible/ansible-original.svg" />
+<img align="left" alt="Kubernetes" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/kubernetes/kubernetes-plain-wordmark.svg" />
+<img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://static-00.iconduck.com/assets.00/aws-icon-2048x2048-ptyrjxdo.png" />
+<img align="left" alt="Azure" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/azure/azure-original.svg" />
+<img align="left" alt="Terraform" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/terraform/terraform-original-wordmark.svg" />
+<img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/docker/docker-original.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="Pandas" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/pandas/pandas-original.svg" />
+<img align="left" alt="Numpy" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/numpy/numpy-original.svg" />
+<img align="left" alt="TensorFlow" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/tensorflow/tensorflow-original.svg" />
+<br />
 
-```bash
-git clone https://github.com/yourusername/vanzei.git
-cd vanzei
-```
+#
+- 📫 How to reach me: [leonardo.vanzei123@gmail.com](leonardo.vanzei123@gmail.com)
+<br />
 
-## Usage
-You can view the website by navigating to the GitHub Pages URL once the deployment is complete. The URL will typically be in the format:
-```
-https://yourusername.github.io/vanzei/
-```
 
-## Workflow
-The project uses GitHub Actions to automate the deployment of static content to GitHub Pages. The workflow is defined in the `.github/workflows/static.yml` file.
+<div align="center" id="badges">
+  <a href="https://www.linkedin.com/in/leonardovanzei/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://twitter.com/vanzei_leonardo">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
-## Contributing
-If you would like to contribute to this project, please fork the repository and submit a pull request.
+<div align="center">
+  <img src="https://github.com/vanzei/vanzei/blob/main/image/LogoVNZ.png?raw=true" width="350" height="300"/>
+</div>
 
-## Contact
-For any inquiries, please reach out to me at [leonardo.vanzei123@gmail.com](mailto:leonardo.vanzei123@gmail.com).
 
-## Acknowledgments
-- Thank you to the open-source community for their contributions and support.
+<details>
+- 🤔 I’m looking for interesting individuals, with different skillsets to discuss and build an interesting community.<br />
+- 💬 Ask me about anything ! Although I love tech, this is not my only interest... Sports, politics, agriculture, social work... I`m here to help you with the best I can.<br /> 
+- ⚡ Fun fact: I`m originally from Brazil 🇧🇷, but currently I live in the United States 🇺🇸... I love Feijoada 🤤<br />
+
+
+
+<!--
+**vanzei/vanzei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
